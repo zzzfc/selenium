@@ -1,0 +1,47 @@
+{
+  "name": "test_login_success",
+  "status": "passed",
+  "attachments": [
+    {
+      "name": "stdout",
+      "source": "9158c61c-3da6-4993-bb55-1b0165ceced7-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "start": 1745736652606,
+  "stop": 1745736652809,
+  "uuid": "0d51d5c6-2d07-46ec-9cce-1893c3a617a1",
+  "historyId": "8fd1546886bb822b327b3048df405b74",
+  "testCaseId": "8fd1546886bb822b327b3048df405b74",
+  "fullName": "testcases.test_login#test_login_success",
+  "labels": [
+    {
+      "name": "parentSuite",
+      "value": "testcases"
+    },
+    {
+      "name": "suite",
+      "value": "test_login"
+    },
+    {
+      "name": "host",
+      "value": "ZZZ"
+    },
+    {
+      "name": "thread",
+      "value": "35616-MainThread"
+    },
+    {
+      "name": "framework",
+      "value": "pytest"
+    },
+    {
+      "name": "language",
+      "value": "cpython3"
+    },
+    {
+      "name": "package",
+      "value": "testcases.test_login"
+    }
+  ]
+}
